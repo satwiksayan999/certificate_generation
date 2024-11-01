@@ -1,20 +1,3 @@
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% About MainCode.m : This file is a MATLAB M-file.        %%%%%%%%%%%%%%%%                       
-% It runs in Matlab software of Mathworks                 %%%%%%%%%%%%%%%%
-% ''''''''''''''''''''''''''''''''''''''''''''''''''''''''%%%%%%%%%%%%%%%%
-% Property of :  Electronics For You Magazine & efymag.com and
-% ElectronicsForYou.com 
-% Author: Vijaykumar Sajjanar,Dept of EC,BLDEA's CET,Vijayapur,Karnataka
-% Author mailID: ec.vijaykumar@bldeacet.ac.in
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-% Project Description: Presented here is a code to generate certificates  
-% for workshops, conferences, symposium etc. 
-% The same can be extended to generate reports for large data sets. 
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 clc % Clear command window.
 clear all %Clear variables and functions from memory
 close all % closes all the open figure windows
@@ -74,4 +57,4 @@ end
 % Code works for any length of data ROWWISE AND COLUMNWISE
 % Last for loop with minor changes facilitate new project implemntations
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% % GOOD LUCK % %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
