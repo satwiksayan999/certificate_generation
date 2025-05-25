@@ -48,10 +48,9 @@ for i=2:len
         filename=['Certificate_Topic_' num2str(y)]
         lastf=[filename '.tif']
         saveas(gcf,lastf)
-        % generate and save files with .tif extension
+       
 end    
 
-% Code works for any length of data ROWWISE AND COLUMNWISE
-% Last for loop with minor changes facilitate new project implemntations
+
 
 
